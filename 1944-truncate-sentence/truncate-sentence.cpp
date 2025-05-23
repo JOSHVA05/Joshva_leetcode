@@ -5,7 +5,7 @@ public:
 
      string res="";
      
-     for(char x:s)
+     for(auto x:s)
      {
 
         if(x==' '){
